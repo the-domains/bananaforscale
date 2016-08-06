@@ -1,0 +1,14 @@
+layout_spectrum: 0.9729541
+color:
+  saturation: 1
+  brandStrength: 1
+  lightness: 1
+  brandColors:
+    - '#000000'
+    - '#FFFFFF'
+    - '#FF3D32'
+    - '#58C4F5'
+    - '#A9FF00'
+  rhythmicContrast: 1
+typography_spectrum: 0.6006081
+name: Bananaforscale
